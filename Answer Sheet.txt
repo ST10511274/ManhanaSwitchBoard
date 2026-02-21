@@ -1,0 +1,1 @@
+1. The git action to save a version of your text is called 'commit'
